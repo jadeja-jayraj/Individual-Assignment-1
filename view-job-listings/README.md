@@ -4,8 +4,8 @@
 
 - _Date Created_: 05 06 2024
 - _Last Modification Date_: 05 06 2024
-- _Lab URL_: https://6658f3a6043c3481cf049359--comfy-dieffenbachia-5b61ec.netlify.app/
-- _Individual Git URL_: https://git.cs.dal.ca/jjadeja/csci-5709-tutorials/-/tree/main/Tutorial%202/tutorial2?ref_type=heads
+- _Lab URL_: https://main--a1-viewjobposting.netlify.app/
+- _Individual Git URL_: https://git.cs.dal.ca/jjadeja/csci-5709-assignments
 
 - _Group Git URL_: https://git.cs.dal.ca/venkatasub/csci-4177-5709-grp-11/-/tree/main?ref_type=heads
 - _My Branch (Jayrajsinh Jadeja)_: https://git.cs.dal.ca/venkatasub/csci-4177-5709-grp-11/-/tree/Jayrajsinh?ref_type=heads
