@@ -1,6 +1,6 @@
 <!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Jayrajsinh Jadeja for academic use --->
 
-# CSCI 5709 Tutorial 2
+# CSCI 5709 Assignment 1
 
 - _Date Created_: 05 06 2024
 - _Last Modification Date_: 05 06 2024
