@@ -5,7 +5,6 @@ const Job = (props) => {
     company,
     contract,
     featured,
-    id,
     languages,
     level,
     location,
@@ -21,14 +20,10 @@ const Job = (props) => {
 
   const [icon, setIcon] = useState("");
 
-  const importSvgs = () => {
-    const logoSvg = import(`${logo}`).then((d) => {
+  useEffect(() => {
+    import(`${logo}`).then((d) => {
       setIcon(d.default);
     });
-  };
-
-  useEffect(() => {
-    importSvgs();
   }, [logo]);
 
   return (

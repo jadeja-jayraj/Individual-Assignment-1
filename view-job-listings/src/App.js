@@ -2,7 +2,6 @@ import data from "./data.json";
 import Jobs from "./components/Jobs";
 import { useState } from "react";
 import Header from "./components/Header";
-import Search from "./components/Search";
 
 function App() {
   const [filterKeywords, setfilterKeywords] = useState([]);
